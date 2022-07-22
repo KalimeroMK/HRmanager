@@ -1,0 +1,10 @@
+/vendor
+.env
+.idea
+# Project exclude paths
+/node_modules/
+/storage/app/
+/storage/attendance/
+/storage/export/
+/storage/framework/
+/storage/holidays/
